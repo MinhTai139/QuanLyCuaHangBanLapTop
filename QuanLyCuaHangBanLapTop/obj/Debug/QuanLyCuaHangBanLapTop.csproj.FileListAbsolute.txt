@@ -1,0 +1,10 @@
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe.config
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.pdb
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.AssemblyReference.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.GUI.frmDangNhap.resources
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.Properties.Resources.resources
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.GenerateResource.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.CoreCompileInputs.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.exe
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.pdb

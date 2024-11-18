@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\XML\\QuanLyCuaHangBanLapTop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\Form1.cs",
-              "ToolTip": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Form1.cs [Design]",
-              "RelativeToolTip": "QuanLyCuaHangBanLapTop\\Form1.cs [Design]",
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "ToolTip": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs [Design]*",
+              "RelativeToolTip": "QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T08:35:30.195Z",
+              "WhenOpened": "2024-11-18T08:39:55.32Z",
               "EditorCaption": " [Design]"
             }
           ]
