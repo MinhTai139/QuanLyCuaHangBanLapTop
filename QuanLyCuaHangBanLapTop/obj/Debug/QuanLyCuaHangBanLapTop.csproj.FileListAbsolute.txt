@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe.config
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.pdb
@@ -9,3 +10,15 @@ E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.CoreCompileInputs.cache
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.exe
 E:\1HK\1HK124\123CNX02\project\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.pdb
+=======
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe.config
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.exe
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\bin\Debug\QuanLyCuaHangBanLapTop.pdb
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.AssemblyReference.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.GUI.frmDangNhap.resources
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.Properties.Resources.resources
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.GenerateResource.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.csproj.CoreCompileInputs.cache
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.exe
+E:\XML\QuanLyCuaHangBanLapTop\QuanLyCuaHangBanLapTop\obj\Debug\QuanLyCuaHangBanLapTop.pdb
+>>>>>>> b8abcb6a33fb68d42dee09119710a48182737647
