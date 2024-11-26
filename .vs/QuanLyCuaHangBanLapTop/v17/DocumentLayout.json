@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\XML\\QuanLyCuaHangBanLapTop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\class\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\class\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|e:\\xml\\quanlycuahangbanlaptop\\quanlycuahangbanlaptop\\class\\filexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334CBD2F-350B-4C28-AD09-A5171CDC84D3}|QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop.csproj|solutionrelative:quanlycuahangbanlaptop\\class\\filexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "ToolTip": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:01:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Class\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\Class\\DangNhap.cs",
+              "ToolTip": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Class\\DangNhap.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanLapTop\\Class\\DangNhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:59:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileXml.cs",
+              "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Class\\FileXml.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\Class\\FileXml.cs",
+              "ToolTip": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\Class\\FileXml.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanLapTop\\Class\\FileXml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:57:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmDangNhap.cs [Design]",
               "DocumentMoniker": "E:\\XML\\QuanLyCuaHangBanLapTop\\QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",
               "RelativeDocumentMoniker": "QuanLyCuaHangBanLapTop\\GUI\\frmDangNhap.cs",

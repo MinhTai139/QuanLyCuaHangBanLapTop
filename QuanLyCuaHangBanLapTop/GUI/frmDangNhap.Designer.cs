@@ -46,7 +46,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(274, 29);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(230, 39);
+            this.label1.Size = new System.Drawing.Size(223, 38);
             this.label1.TabIndex = 0;
             this.label1.Text = "ĐĂNG NHẬP";
             // 
@@ -96,6 +96,7 @@
             this.btnlogin.TabIndex = 5;
             this.btnlogin.Text = "Đăng nhập";
             this.btnlogin.UseVisualStyleBackColor = false;
+            this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click);
             // 
             // btnexit
             // 
